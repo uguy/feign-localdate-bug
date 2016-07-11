@@ -1,0 +1,15 @@
+target
+target/*
+logs/*
+application.pid
+# eclipse project file
+.project
+.classpath
+.settings/
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+# Created by .ignore support plugin (hsz.mobi)
+
